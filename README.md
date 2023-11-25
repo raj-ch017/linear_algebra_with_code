@@ -1,1 +1,2 @@
-# linear_algebra_with_code
+# Linear Algebra with Code
+---
